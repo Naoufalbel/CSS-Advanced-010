@@ -1,0 +1,29 @@
+.div-container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
+
+html, body {
+   font-family: Arial, Helvetica, sans-serif;
+   color: white;
+   margin: auto;
+   padding: 10px;
+}
+
+.header {
+    background-color: lightblue;
+}
+
+.main { 
+    background-color: green;
+}
+
+.widget {
+    background-color: purple;
+}
+
+.footer {
+    background-color: blue;
+}
